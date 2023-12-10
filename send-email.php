@@ -23,7 +23,7 @@ $mail->SMTPAuth = true;
 
 $mail->Host = "smtp.gmail.com";
 $mail->SMTPSecure = 'ssl';
-$mail->Port = 587;
+$mail->Port = 465;
 
 $mail->Username = "exbp642@gmail.com";
 $mail->Password = "lfmffjcihyeqbzbd";
